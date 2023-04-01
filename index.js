@@ -6856,28 +6856,6 @@ var jsondata = {
         ],
     "polygons":[
         {
-                type: "polygon",
-                rings: [
-                    [106.80514114445627, 10.870158436990936],
-                    [106.80400388783394, 10.868915147546755],
-                    [106.8032099539655, 10.868325110065758],
-                    [106.80245893544132, 10.869210165849735],
-                    [106.80245893544132, 10.869484111155634],
-                    [106.8037463957685, 10.871085632526057]
-                ],
-                Name: "Đại học CNTT",
-                Description: "Khu phố 6, P.Linh Trung, Q.Thủ Đức, Tp.Hồ Chí Minh",
-                symbol: {
-                    type: "simple-fill",
-                    color: [227, 139, 79, 0.4],
-                    outline: {
-                        color: [255, 255, 255],
-                        width: 1
-                    }
-                },
-                popupTemplate,
-        },
-        {
             type: "polygon",
             rings: [
                 [105.54602973785475, 9.586239762256382],
@@ -11160,7 +11138,7 @@ var jsondata = {
             Description: "Diện tích (km²): 3311,8 , dân số: 1.181.835 người.",
             symbol: {
                 type: "simple-fill",
-                color: [227, 139, 79, 0.4],
+                color: [27, 189, 59, 0.4],
                 outline: {
                     color: [255, 255, 255],
                     width: 1
@@ -12118,7 +12096,7 @@ var jsondata = {
             Description: "Diện tích (km²): 5294,8. Dân số: 1.191.999 người.",
             symbol: {
                 type: "simple-fill",
-                color: [227, 139, 79, 0.4],
+                color: [27, 189, 59, 0.4],
                 outline: {
                     color: [255, 255, 255],
                     width: 1
@@ -16015,7 +15993,7 @@ var jsondata = {
             Description: "Diện tích (km²):  2669. Dân số: 917.734 người.",
             symbol: {
                 type: "simple-fill",
-                color: [227, 139, 79, 0.4],
+                color: [27, 189, 59, 0.4],
                 outline: {
                     color: [255, 255, 255],
                     width: 1
@@ -16376,7 +16354,7 @@ var jsondata = {
             Description: "Diện tích (km²): 2358,2 . Dân số: 1.010.404 người.",
             symbol: {
                 type: "simple-fill",
-                color: [227, 139, 79, 0.4],
+                color: [27, 189, 59, 0.4],
                 outline: {
                     color: [255, 255, 255],
                     width: 1
@@ -16571,7 +16549,7 @@ var jsondata = {
             Description: "Diện tích (km²): 2394,6 . Dân số: 1.295.067 người.",
             symbol: {
                 type: "simple-fill",
-                color: [227, 139, 79, 0.4],
+                color: [27, 189, 59, 0.4],
                 outline: {
                     color: [255, 255, 255],
                     width: 1
@@ -18151,7 +18129,7 @@ var jsondata = {
             Description: "Diện tích (km²): 6348,8 . Dân số: 1.730.117 người.",
             symbol: {
                 type: "simple-fill",
-                color: [227, 139, 79, 0.4],
+                color: [27, 189, 59, 0.4],
                 outline: {
                     color: [255, 255, 255],
                     width: 1
@@ -20038,7 +20016,7 @@ var jsondata = {
             Description: "Diện tích (km²): 1621,8. Dân số: 728.255 người.",
             symbol: {
                 type: "simple-fill",
-                color: [227, 139, 79, 0.4],
+                color: [27, 189, 59, 0.4],
                 outline: {
                     color: [255, 255, 255],
                     width: 1
@@ -20454,7 +20432,7 @@ var jsondata = {
             Description: "Diện tích (km²): 1439,2. Dân số: 1.244.736 người.",
             symbol: {
                 type: "simple-fill",
-                color: [227, 139, 79, 0.4],
+                color: [27, 189, 59, 0.4],
                 outline: {
                     color: [255, 255, 255],
                     width: 1
@@ -21091,7 +21069,7 @@ var jsondata = {
             Description: "Diện tích (km²): 1475. Dân số: 1.022.408 người.",
             symbol: {
                 type: "simple-fill",
-                color: [227, 139, 79, 0.4],
+                color: [27, 189, 59, 0.4],
                 outline: {
                     color: [255, 255, 255],
                     width: 1
@@ -22045,7 +22023,7 @@ var jsondata = {
             Description: "Diện tích (km²): 3536,7. Dân số: 1.864.651 người.",
             symbol: {
                 type: "simple-fill",
-                color: [227, 139, 79, 0.4],
+                color: [27, 189, 59, 0.4],
                 outline: {
                     color: [255, 255, 255],
                     width: 1
@@ -23408,7 +23386,7 @@ var jsondata = {
             Description: "Diện tích (km²): 3383,8. Dân số: 1.586.438 người.",
             symbol: {
                 type: "simple-fill",
-                color: [227, 139, 79, 0.4],
+                color: [27, 189, 59, 0.4],
                 outline: {
                     color: [255, 255, 255],
                     width: 1
@@ -29088,7 +29066,7 @@ var jsondata = {
             Description: "Diện tích (km²): 4490,2. Dân số: 1.744.138 người.",
             symbol: {
                 type: "simple-fill",
-                color: [227, 139, 79, 0.4],
+                color: [27, 189, 59, 0.4],
                 outline: {
                     color: [255, 255, 255],
                     width: 1
@@ -31010,7 +30988,7 @@ var jsondata = {
             Description: "Diện tích (km²): 2510,5. Dân số: 1.783.165 người.",
             symbol: {
                 type: "simple-fill",
-                color: [227, 139, 79, 0.4],
+                color: [27, 189, 59, 0.4],
                 outline: {
                     color: [255, 255, 255],
                     width: 1
@@ -33379,7 +33357,7 @@ var jsondata = {
             Description: "Diện tích (km²): 2061. Dân số: 9.411.805 người.",
             symbol: {
                 type: "simple-fill",
-                color: [227, 139, 79, 0.4],
+                color: [27, 189, 59, 0.4],
                 outline: {
                     color: [255, 255, 255],
                     width: 1
@@ -35367,7 +35345,7 @@ var jsondata = {
             Description: "Diện tích (km²): 1980,8. Dân số: 1.181.302 người.",
             symbol: {
                 type: "simple-fill",
-                color: [227, 139, 79, 0.4],
+                color: [27, 189, 59, 0.4],
                 outline: {
                     color: [255, 255, 255],
                     width: 1
@@ -39239,7 +39217,7 @@ var jsondata = {
             Description: "Diện tích (km²): 5905,7. Dân số: 3.236.248 người.",
             symbol: {
                 type: "simple-fill",
-                color: [127, 189, 59, 0.4],
+                color: [27, 189, 59, 0.4],
                 outline: {
                     color: [255, 255, 255],
                     width: 1
